@@ -1,0 +1,10 @@
+ofxCv
+ofxFaceTracker
+ofxGui
+ofxHTTP
+ofxIO
+ofxMediaType
+ofxNetworkUtils
+ofxOpenCv
+ofxSSLManager
+ofxTaskQueue

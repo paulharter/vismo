@@ -1,0 +1,79 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F05B1A0844A8699BC7D6ABACF265729E5BB222E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C" : 0,
+    "CA29DB320F881B85D76220FC5498A4D1FA4F037C" : 0,
+    "F05B1A0844A8699BC7D6ABACF265729E5BB222E5" : 0,
+    "6DBA07F83F7AF99DB5F116332E6446603283BF4C" : 0,
+    "CC64F4963C935629E4EEDB8221C0DA9B68D2313F" : 0,
+    "A4D0373C699384D3146D509694B516AB9C7B5AD6" : 0,
+    "CE427DFEAC7CF46E0343E32288BC15C14F0689BB" : 0,
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0,
+    "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "705E6234-2872-4F0C-8934-7062417ECEBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C" : "..\/..\/addons\/ofxSSLManager",
+    "CA29DB320F881B85D76220FC5498A4D1FA4F037C" : "..\/..\/addons\/ofxIO",
+    "F05B1A0844A8699BC7D6ABACF265729E5BB222E5" : "vismo\/",
+    "6DBA07F83F7AF99DB5F116332E6446603283BF4C" : "..\/..\/addons\/ofxHTTP",
+    "CC64F4963C935629E4EEDB8221C0DA9B68D2313F" : "..\/..\/addons\/ofxMediaType",
+    "A4D0373C699384D3146D509694B516AB9C7B5AD6" : "..\/..\/addons\/ofxFaceTracker",
+    "CE427DFEAC7CF46E0343E32288BC15C14F0689BB" : "..\/..\/addons\/ofxTaskQueue",
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv",
+    "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980" : "..\/..\/addons\/ofxNetworkUtils"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "vismo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "vismo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kylemcdonald\/ofxCv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxNetworkUtils.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxSSLManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxHTTP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DBA07F83F7AF99DB5F116332E6446603283BF4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kylemcdonald\/ofxFaceTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4D0373C699384D3146D509694B516AB9C7B5AD6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxIO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA29DB320F881B85D76220FC5498A4D1FA4F037C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxMediaType.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC64F4963C935629E4EEDB8221C0DA9B68D2313F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bakercp\/ofxTaskQueue.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE427DFEAC7CF46E0343E32288BC15C14F0689BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:paulharter\/vismo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F05B1A0844A8699BC7D6ABACF265729E5BB222E5"
+    }
+  ]
+}
